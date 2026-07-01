@@ -52,6 +52,10 @@ This skill estimates AI visibility from signals you can see, and it never runs a
 
 It cannot, on its own, tell you the ground truth of which engines cite you right now. No tool can do that from on-page signals alone; it requires querying the engines across many prompts and reading the answers. This skill is honest about that line and points you to real measurement for the other side of it.
 
+## Credits
+
+Built by [Ali Khallad](https://github.com/bomsn) at [SurfacedBy](https://surfacedby.com).
+
 ## License
 
 MIT.

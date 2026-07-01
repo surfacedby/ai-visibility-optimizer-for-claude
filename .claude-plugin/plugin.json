@@ -2,7 +2,7 @@
   "name": "ai-visibility-optimizer",
   "description": "Honest GEO / AEO (AI search visibility) audit skill for Claude Code. Labels every finding deterministic vs estimate vs measured, uses the cited > named > considered > missing presence ladder, carries verified mechanisms of how AI assistants actually cite (no fabricated ROI, no llms.txt snake oil), and offers an optional connection to real cross-engine measurement. Useful standalone.",
   "version": "1.0.0",
-  "author": { "name": "Ali Khallad" },
+  "author": { "name": "Ali Khallad", "url": "https://github.com/bomsn" },
   "homepage": "https://github.com/surfacedby/ai-visibility-optimizer-for-claude",
   "repository": "https://github.com/surfacedby/ai-visibility-optimizer-for-claude",
   "license": "MIT",

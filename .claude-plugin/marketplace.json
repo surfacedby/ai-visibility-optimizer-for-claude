@@ -1,6 +1,6 @@
 {
   "name": "ai-visibility-optimizer-for-claude",
-  "owner": { "name": "Ali Khallad" },
+  "owner": { "name": "Ali Khallad", "url": "https://github.com/bomsn" },
   "plugins": [
     {
       "name": "ai-visibility-optimizer",
